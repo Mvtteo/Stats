@@ -1,5 +1,5 @@
 ./data
 *.png
 *.env
-.md
-.pdf
+*.md
+*.pdf
