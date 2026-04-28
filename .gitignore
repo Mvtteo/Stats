@@ -3,3 +3,4 @@
 *.env
 *.md
 *.pdf
+!rapport_forensic.pdf
