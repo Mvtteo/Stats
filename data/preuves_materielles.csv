@@ -1,0 +1,11 @@
+﻿id_suspect,presence_bureau_victime,empreintes_sur_verre,ADN_sur_porte,fibres_textile_compatibles,telephone_dans_zone,acces_pharmacie_societe
+S01,oui,oui,oui,oui,non,oui
+S02,non,non,non,non,oui,non
+S03,non,non,non,non,non,non
+S04,oui,non,non,non,oui,non
+S05,oui,oui,oui,oui,non,non
+S06,non,non,non,non,non,non
+S07,non,non,non,non,non,non
+S08,non,non,non,non,non,non
+S09,non,non,non,non,non,non
+S10,oui,non,non,non,non,non

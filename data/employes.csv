@@ -1,0 +1,11 @@
+﻿id_suspect,nom,prenom,age,sexe,departement,poste,anciennete_annees,salaire_annuel_eur,conges_pris_2025_jours,performance_score,acces_pharmacie_societe
+S01,Dubois,Claire,47,F,Direction Financière,Directrice Financière,12,148601,4,8.4,True
+S02,Moreau,Antoine,38,M,Trading,Trader senior,8,118376,4,7.9,False
+S03,Bernard,Sophie,41,F,Conformité,Resp. conformité,14,102501,25,6.5,False
+S04,Haddad,Karim,44,M,IT,DSI,10,133526,4,7.7,False
+S05,Rousseau,Élodie,29,F,Direction Financière,Assistante,4,42508,15,5.3,False
+S06,Lambert,Pierre,58,M,Direction Générale,PDG,20,213814,17,7.3,False
+S07,Petit,Julie,26,F,Trading,Analyste junior,2,45820,16,8.5,False
+S08,Girard,Marc,52,M,Patrimoine,Gestion. patrimoine,18,93927,22,5.6,False
+S09,Martin,Léa,39,F,RH,Resp. RH,9,82686,22,5.8,False
+S10,Roux,Thomas,35,M,Audit,Auditeur,6,76408,19,6.7,False

@@ -1,0 +1,301 @@
+﻿id_suspect,num_question,type_question,texte_question,rythme_cardiaque_bpm,temps_reponse_sec
+S01,1,neutre,Quel est votre poste exact ?,79.3,4.5
+S01,2,neutre,Depuis quand travaillez-vous chez Mercier ?,73.5,3.59
+S01,3,neutre,Comment décririez-vous une journée type ?,72.5,4.83
+S01,4,neutre,Quels logiciels utilisez-vous au quotidien ?,69.7,3.9
+S01,5,neutre,Qui sont vos collègues directs ?,66.8,4.84
+S01,6,neutre,Quels sont vos horaires habituels ?,73.1,4.35
+S01,7,neutre,Quel est votre parcours universitaire ?,71.4,4.45
+S01,8,neutre,Quelles sont vos responsabilités principales ?,70.5,4.26
+S01,9,neutre,Comment fonctionne votre équipe ?,70.1,7.74
+S01,10,neutre,Avez-vous suivi des formations récentes ?,71.6,5.27
+S01,11,neutre,Comment vous rendez-vous au bureau ?,72.2,4.18
+S01,12,neutre,Aimez-vous votre travail ?,76.5,4.15
+S01,13,neutre,Que faites-vous le week-end ?,75.3,4.1
+S01,14,neutre,Avez-vous des hobbies ?,65.2,4.94
+S01,15,neutre,Comment se passent vos congés ?,64.5,5.14
+S01,16,accusatrice,Connaissiez-vous le compte Pégase ?,85.4,8.36
+S01,17,accusatrice,Et le compte Cerbère ?,83.5,14.65
+S01,18,accusatrice,Que pouvez-vous dire du compte Hermès ?,81.8,9.02
+S01,19,accusatrice,Où étiez-vous le 14 mars à 20h30 ?,104.1,11.07
+S01,20,accusatrice,Avez-vous vu Marc Lefèvre le 14 mars ?,101.8,8.37
+S01,21,accusatrice,Pourquoi avoir accédé aux serveurs ce soir-là ?,105.8,10.83
+S01,22,accusatrice,Connaissiez-vous le rapport d’audit en cours ?,96.7,9.48
+S01,23,accusatrice,Avez-vous accès à la pharmacie de la société ?,92.6,7.18
+S01,24,accusatrice,Avez-vous déjà manipulé de la digoxine ?,104.9,11.62
+S01,25,accusatrice,Pourquoi si peu de congés en 2025 ?,87.9,8.69
+S01,26,accusatrice,Comment expliquez-vous ces transferts vers les Caïmans ?,93.9,8.93
+S01,27,accusatrice,Qui validait ces transactions ?,95.5,10.89
+S01,28,accusatrice,Avez-vous effacé des fichiers récemment ?,89.0,7.31
+S01,29,accusatrice,"Que savez-vous des 4,8 millions disparus ?",104.9,8.07
+S01,30,accusatrice,Pourquoi avoir auto-validé certaines transactions ?,84.9,8.03
+S02,1,neutre,Quel est votre poste exact ?,68.3,6.37
+S02,2,neutre,Depuis quand travaillez-vous chez Mercier ?,74.6,5.88
+S02,3,neutre,Comment décririez-vous une journée type ?,74.1,5.64
+S02,4,neutre,Quels logiciels utilisez-vous au quotidien ?,66.6,4.26
+S02,5,neutre,Qui sont vos collègues directs ?,65.1,4.25
+S02,6,neutre,Quels sont vos horaires habituels ?,73.4,4.66
+S02,7,neutre,Quel est votre parcours universitaire ?,76.6,3.13
+S02,8,neutre,Quelles sont vos responsabilités principales ?,72.5,3.0
+S02,9,neutre,Comment fonctionne votre équipe ?,70.5,5.39
+S02,10,neutre,Avez-vous suivi des formations récentes ?,68.9,5.16
+S02,11,neutre,Comment vous rendez-vous au bureau ?,65.2,2.5
+S02,12,neutre,Aimez-vous votre travail ?,72.8,6.59
+S02,13,neutre,Que faites-vous le week-end ?,65.0,5.97
+S02,14,neutre,Avez-vous des hobbies ?,70.2,2.9
+S02,15,neutre,Comment se passent vos congés ?,64.3,4.52
+S02,16,accusatrice,Connaissiez-vous le compte Pégase ?,91.8,6.37
+S02,17,accusatrice,Et le compte Cerbère ?,81.4,7.31
+S02,18,accusatrice,Que pouvez-vous dire du compte Hermès ?,96.6,8.99
+S02,19,accusatrice,Où étiez-vous le 14 mars à 20h30 ?,91.0,9.4
+S02,20,accusatrice,Avez-vous vu Marc Lefèvre le 14 mars ?,103.3,9.79
+S02,21,accusatrice,Pourquoi avoir accédé aux serveurs ce soir-là ?,94.0,10.86
+S02,22,accusatrice,Connaissiez-vous le rapport d’audit en cours ?,87.3,8.55
+S02,23,accusatrice,Avez-vous accès à la pharmacie de la société ?,93.4,6.53
+S02,24,accusatrice,Avez-vous déjà manipulé de la digoxine ?,91.6,4.85
+S02,25,accusatrice,Pourquoi si peu de congés en 2025 ?,110.3,7.13
+S02,26,accusatrice,Comment expliquez-vous ces transferts vers les Caïmans ?,107.7,9.08
+S02,27,accusatrice,Qui validait ces transactions ?,99.5,8.02
+S02,28,accusatrice,Avez-vous effacé des fichiers récemment ?,96.7,10.3
+S02,29,accusatrice,"Que savez-vous des 4,8 millions disparus ?",100.3,10.55
+S02,30,accusatrice,Pourquoi avoir auto-validé certaines transactions ?,92.1,8.04
+S03,1,neutre,Quel est votre poste exact ?,63.0,5.13
+S03,2,neutre,Depuis quand travaillez-vous chez Mercier ?,76.4,6.44
+S03,3,neutre,Comment décririez-vous une journée type ?,72.5,3.58
+S03,4,neutre,Quels logiciels utilisez-vous au quotidien ?,62.5,5.75
+S03,5,neutre,Qui sont vos collègues directs ?,62.0,4.09
+S03,6,neutre,Quels sont vos horaires habituels ?,69.9,4.42
+S03,7,neutre,Quel est votre parcours universitaire ?,71.2,4.67
+S03,8,neutre,Quelles sont vos responsabilités principales ?,58.9,4.52
+S03,9,neutre,Comment fonctionne votre équipe ?,59.9,5.38
+S03,10,neutre,Avez-vous suivi des formations récentes ?,68.2,1.91
+S03,11,neutre,Comment vous rendez-vous au bureau ?,66.9,3.82
+S03,12,neutre,Aimez-vous votre travail ?,77.0,4.74
+S03,13,neutre,Que faites-vous le week-end ?,72.7,5.92
+S03,14,neutre,Avez-vous des hobbies ?,70.5,5.41
+S03,15,neutre,Comment se passent vos congés ?,74.4,2.96
+S03,16,accusatrice,Connaissiez-vous le compte Pégase ?,80.4,2.16
+S03,17,accusatrice,Et le compte Cerbère ?,77.6,1.97
+S03,18,accusatrice,Que pouvez-vous dire du compte Hermès ?,76.0,8.72
+S03,19,accusatrice,Où étiez-vous le 14 mars à 20h30 ?,71.9,4.49
+S03,20,accusatrice,Avez-vous vu Marc Lefèvre le 14 mars ?,76.1,4.34
+S03,21,accusatrice,Pourquoi avoir accédé aux serveurs ce soir-là ?,82.1,5.38
+S03,22,accusatrice,Connaissiez-vous le rapport d’audit en cours ?,71.4,3.92
+S03,23,accusatrice,Avez-vous accès à la pharmacie de la société ?,68.3,3.74
+S03,24,accusatrice,Avez-vous déjà manipulé de la digoxine ?,71.2,4.02
+S03,25,accusatrice,Pourquoi si peu de congés en 2025 ?,69.7,9.2
+S03,26,accusatrice,Comment expliquez-vous ces transferts vers les Caïmans ?,67.8,5.29
+S03,27,accusatrice,Qui validait ces transactions ?,76.0,6.26
+S03,28,accusatrice,Avez-vous effacé des fichiers récemment ?,72.7,4.52
+S03,29,accusatrice,"Que savez-vous des 4,8 millions disparus ?",75.3,5.53
+S03,30,accusatrice,Pourquoi avoir auto-validé certaines transactions ?,71.7,1.88
+S04,1,neutre,Quel est votre poste exact ?,67.7,3.12
+S04,2,neutre,Depuis quand travaillez-vous chez Mercier ?,66.7,4.54
+S04,3,neutre,Comment décririez-vous une journée type ?,71.8,6.64
+S04,4,neutre,Quels logiciels utilisez-vous au quotidien ?,67.3,5.43
+S04,5,neutre,Qui sont vos collègues directs ?,71.5,6.06
+S04,6,neutre,Quels sont vos horaires habituels ?,72.9,3.29
+S04,7,neutre,Quel est votre parcours universitaire ?,61.4,4.87
+S04,8,neutre,Quelles sont vos responsabilités principales ?,67.4,3.32
+S04,9,neutre,Comment fonctionne votre équipe ?,63.7,4.69
+S04,10,neutre,Avez-vous suivi des formations récentes ?,77.5,4.01
+S04,11,neutre,Comment vous rendez-vous au bureau ?,73.0,4.38
+S04,12,neutre,Aimez-vous votre travail ?,63.6,5.38
+S04,13,neutre,Que faites-vous le week-end ?,64.5,4.53
+S04,14,neutre,Avez-vous des hobbies ?,68.3,5.57
+S04,15,neutre,Comment se passent vos congés ?,64.7,4.97
+S04,16,accusatrice,Connaissiez-vous le compte Pégase ?,88.3,7.98
+S04,17,accusatrice,Et le compte Cerbère ?,65.9,13.18
+S04,18,accusatrice,Que pouvez-vous dire du compte Hermès ?,99.4,7.47
+S04,19,accusatrice,Où étiez-vous le 14 mars à 20h30 ?,86.0,8.01
+S04,20,accusatrice,Avez-vous vu Marc Lefèvre le 14 mars ?,100.7,5.22
+S04,21,accusatrice,Pourquoi avoir accédé aux serveurs ce soir-là ?,93.9,12.54
+S04,22,accusatrice,Connaissiez-vous le rapport d’audit en cours ?,85.9,9.16
+S04,23,accusatrice,Avez-vous accès à la pharmacie de la société ?,112.6,10.26
+S04,24,accusatrice,Avez-vous déjà manipulé de la digoxine ?,96.0,10.01
+S04,25,accusatrice,Pourquoi si peu de congés en 2025 ?,91.8,11.6
+S04,26,accusatrice,Comment expliquez-vous ces transferts vers les Caïmans ?,91.8,5.08
+S04,27,accusatrice,Qui validait ces transactions ?,91.9,7.07
+S04,28,accusatrice,Avez-vous effacé des fichiers récemment ?,92.8,8.48
+S04,29,accusatrice,"Que savez-vous des 4,8 millions disparus ?",104.6,10.39
+S04,30,accusatrice,Pourquoi avoir auto-validé certaines transactions ?,97.1,8.99
+S05,1,neutre,Quel est votre poste exact ?,66.7,1.88
+S05,2,neutre,Depuis quand travaillez-vous chez Mercier ?,72.6,5.45
+S05,3,neutre,Comment décririez-vous une journée type ?,71.5,3.86
+S05,4,neutre,Quels logiciels utilisez-vous au quotidien ?,74.3,4.4
+S05,5,neutre,Qui sont vos collègues directs ?,80.4,5.98
+S05,6,neutre,Quels sont vos horaires habituels ?,76.8,5.41
+S05,7,neutre,Quel est votre parcours universitaire ?,65.5,5.3
+S05,8,neutre,Quelles sont vos responsabilités principales ?,73.9,5.23
+S05,9,neutre,Comment fonctionne votre équipe ?,74.5,5.04
+S05,10,neutre,Avez-vous suivi des formations récentes ?,85.5,4.41
+S05,11,neutre,Comment vous rendez-vous au bureau ?,76.7,3.93
+S05,12,neutre,Aimez-vous votre travail ?,76.0,5.63
+S05,13,neutre,Que faites-vous le week-end ?,73.8,6.5
+S05,14,neutre,Avez-vous des hobbies ?,67.6,3.92
+S05,15,neutre,Comment se passent vos congés ?,73.1,5.56
+S05,16,accusatrice,Connaissiez-vous le compte Pégase ?,81.3,8.57
+S05,17,accusatrice,Et le compte Cerbère ?,75.4,3.72
+S05,18,accusatrice,Que pouvez-vous dire du compte Hermès ?,82.2,5.85
+S05,19,accusatrice,Où étiez-vous le 14 mars à 20h30 ?,83.8,5.95
+S05,20,accusatrice,Avez-vous vu Marc Lefèvre le 14 mars ?,77.6,5.85
+S05,21,accusatrice,Pourquoi avoir accédé aux serveurs ce soir-là ?,80.2,5.39
+S05,22,accusatrice,Connaissiez-vous le rapport d’audit en cours ?,78.6,5.19
+S05,23,accusatrice,Avez-vous accès à la pharmacie de la société ?,86.0,6.39
+S05,24,accusatrice,Avez-vous déjà manipulé de la digoxine ?,95.8,6.32
+S05,25,accusatrice,Pourquoi si peu de congés en 2025 ?,76.1,11.34
+S05,26,accusatrice,Comment expliquez-vous ces transferts vers les Caïmans ?,82.9,7.98
+S05,27,accusatrice,Qui validait ces transactions ?,84.1,7.25
+S05,28,accusatrice,Avez-vous effacé des fichiers récemment ?,83.7,3.8
+S05,29,accusatrice,"Que savez-vous des 4,8 millions disparus ?",82.6,3.35
+S05,30,accusatrice,Pourquoi avoir auto-validé certaines transactions ?,78.8,4.55
+S06,1,neutre,Quel est votre poste exact ?,72.8,4.9
+S06,2,neutre,Depuis quand travaillez-vous chez Mercier ?,73.4,4.84
+S06,3,neutre,Comment décririez-vous une journée type ?,68.0,4.19
+S06,4,neutre,Quels logiciels utilisez-vous au quotidien ?,75.6,5.78
+S06,5,neutre,Qui sont vos collègues directs ?,65.3,2.66
+S06,6,neutre,Quels sont vos horaires habituels ?,67.4,5.75
+S06,7,neutre,Quel est votre parcours universitaire ?,77.1,3.39
+S06,8,neutre,Quelles sont vos responsabilités principales ?,72.5,6.7
+S06,9,neutre,Comment fonctionne votre équipe ?,73.1,6.21
+S06,10,neutre,Avez-vous suivi des formations récentes ?,76.0,3.41
+S06,11,neutre,Comment vous rendez-vous au bureau ?,70.1,4.54
+S06,12,neutre,Aimez-vous votre travail ?,71.5,5.6
+S06,13,neutre,Que faites-vous le week-end ?,73.0,0.98
+S06,14,neutre,Avez-vous des hobbies ?,64.4,1.88
+S06,15,neutre,Comment se passent vos congés ?,71.9,4.79
+S06,16,accusatrice,Connaissiez-vous le compte Pégase ?,74.4,3.08
+S06,17,accusatrice,Et le compte Cerbère ?,76.4,6.43
+S06,18,accusatrice,Que pouvez-vous dire du compte Hermès ?,66.7,2.07
+S06,19,accusatrice,Où étiez-vous le 14 mars à 20h30 ?,73.0,8.58
+S06,20,accusatrice,Avez-vous vu Marc Lefèvre le 14 mars ?,81.5,6.13
+S06,21,accusatrice,Pourquoi avoir accédé aux serveurs ce soir-là ?,69.4,6.77
+S06,22,accusatrice,Connaissiez-vous le rapport d’audit en cours ?,70.7,3.46
+S06,23,accusatrice,Avez-vous accès à la pharmacie de la société ?,62.3,5.2
+S06,24,accusatrice,Avez-vous déjà manipulé de la digoxine ?,69.9,5.19
+S06,25,accusatrice,Pourquoi si peu de congés en 2025 ?,61.5,5.34
+S06,26,accusatrice,Comment expliquez-vous ces transferts vers les Caïmans ?,60.8,7.18
+S06,27,accusatrice,Qui validait ces transactions ?,75.6,4.44
+S06,28,accusatrice,Avez-vous effacé des fichiers récemment ?,75.8,3.04
+S06,29,accusatrice,"Que savez-vous des 4,8 millions disparus ?",73.4,6.59
+S06,30,accusatrice,Pourquoi avoir auto-validé certaines transactions ?,57.5,4.11
+S07,1,neutre,Quel est votre poste exact ?,70.9,4.26
+S07,2,neutre,Depuis quand travaillez-vous chez Mercier ?,78.3,3.15
+S07,3,neutre,Comment décririez-vous une journée type ?,67.9,2.2
+S07,4,neutre,Quels logiciels utilisez-vous au quotidien ?,78.6,4.2
+S07,5,neutre,Qui sont vos collègues directs ?,68.8,4.44
+S07,6,neutre,Quels sont vos horaires habituels ?,74.2,4.92
+S07,7,neutre,Quel est votre parcours universitaire ?,84.2,5.04
+S07,8,neutre,Quelles sont vos responsabilités principales ?,68.7,3.83
+S07,9,neutre,Comment fonctionne votre équipe ?,69.0,2.7
+S07,10,neutre,Avez-vous suivi des formations récentes ?,71.2,5.44
+S07,11,neutre,Comment vous rendez-vous au bureau ?,67.9,3.53
+S07,12,neutre,Aimez-vous votre travail ?,78.6,2.79
+S07,13,neutre,Que faites-vous le week-end ?,60.7,3.12
+S07,14,neutre,Avez-vous des hobbies ?,63.3,4.96
+S07,15,neutre,Comment se passent vos congés ?,69.2,4.24
+S07,16,accusatrice,Connaissiez-vous le compte Pégase ?,78.8,3.62
+S07,17,accusatrice,Et le compte Cerbère ?,76.9,8.02
+S07,18,accusatrice,Que pouvez-vous dire du compte Hermès ?,70.7,6.47
+S07,19,accusatrice,Où étiez-vous le 14 mars à 20h30 ?,71.8,6.85
+S07,20,accusatrice,Avez-vous vu Marc Lefèvre le 14 mars ?,65.1,1.71
+S07,21,accusatrice,Pourquoi avoir accédé aux serveurs ce soir-là ?,71.0,3.22
+S07,22,accusatrice,Connaissiez-vous le rapport d’audit en cours ?,70.4,4.56
+S07,23,accusatrice,Avez-vous accès à la pharmacie de la société ?,76.6,4.18
+S07,24,accusatrice,Avez-vous déjà manipulé de la digoxine ?,68.9,4.3
+S07,25,accusatrice,Pourquoi si peu de congés en 2025 ?,69.2,3.13
+S07,26,accusatrice,Comment expliquez-vous ces transferts vers les Caïmans ?,64.9,5.14
+S07,27,accusatrice,Qui validait ces transactions ?,70.2,6.93
+S07,28,accusatrice,Avez-vous effacé des fichiers récemment ?,65.8,3.92
+S07,29,accusatrice,"Que savez-vous des 4,8 millions disparus ?",82.1,3.12
+S07,30,accusatrice,Pourquoi avoir auto-validé certaines transactions ?,71.8,2.57
+S08,1,neutre,Quel est votre poste exact ?,64.3,6.36
+S08,2,neutre,Depuis quand travaillez-vous chez Mercier ?,71.9,4.66
+S08,3,neutre,Comment décririez-vous une journée type ?,62.5,4.93
+S08,4,neutre,Quels logiciels utilisez-vous au quotidien ?,76.8,5.88
+S08,5,neutre,Qui sont vos collègues directs ?,74.3,3.14
+S08,6,neutre,Quels sont vos horaires habituels ?,72.6,5.3
+S08,7,neutre,Quel est votre parcours universitaire ?,62.0,3.15
+S08,8,neutre,Quelles sont vos responsabilités principales ?,75.4,5.55
+S08,9,neutre,Comment fonctionne votre équipe ?,63.3,5.45
+S08,10,neutre,Avez-vous suivi des formations récentes ?,71.5,5.44
+S08,11,neutre,Comment vous rendez-vous au bureau ?,67.8,5.27
+S08,12,neutre,Aimez-vous votre travail ?,75.2,4.08
+S08,13,neutre,Que faites-vous le week-end ?,71.1,3.72
+S08,14,neutre,Avez-vous des hobbies ?,79.3,4.36
+S08,15,neutre,Comment se passent vos congés ?,66.4,3.64
+S08,16,accusatrice,Connaissiez-vous le compte Pégase ?,73.6,6.51
+S08,17,accusatrice,Et le compte Cerbère ?,66.3,8.7
+S08,18,accusatrice,Que pouvez-vous dire du compte Hermès ?,74.5,5.93
+S08,19,accusatrice,Où étiez-vous le 14 mars à 20h30 ?,72.5,5.04
+S08,20,accusatrice,Avez-vous vu Marc Lefèvre le 14 mars ?,72.3,7.04
+S08,21,accusatrice,Pourquoi avoir accédé aux serveurs ce soir-là ?,73.0,6.53
+S08,22,accusatrice,Connaissiez-vous le rapport d’audit en cours ?,70.8,5.39
+S08,23,accusatrice,Avez-vous accès à la pharmacie de la société ?,69.0,7.43
+S08,24,accusatrice,Avez-vous déjà manipulé de la digoxine ?,68.8,4.35
+S08,25,accusatrice,Pourquoi si peu de congés en 2025 ?,71.4,4.29
+S08,26,accusatrice,Comment expliquez-vous ces transferts vers les Caïmans ?,76.6,4.37
+S08,27,accusatrice,Qui validait ces transactions ?,80.0,3.36
+S08,28,accusatrice,Avez-vous effacé des fichiers récemment ?,73.8,3.45
+S08,29,accusatrice,"Que savez-vous des 4,8 millions disparus ?",75.1,4.97
+S08,30,accusatrice,Pourquoi avoir auto-validé certaines transactions ?,72.2,7.38
+S09,1,neutre,Quel est votre poste exact ?,67.7,5.2
+S09,2,neutre,Depuis quand travaillez-vous chez Mercier ?,67.2,4.64
+S09,3,neutre,Comment décririez-vous une journée type ?,65.0,3.7
+S09,4,neutre,Quels logiciels utilisez-vous au quotidien ?,70.6,6.68
+S09,5,neutre,Qui sont vos collègues directs ?,71.5,6.49
+S09,6,neutre,Quels sont vos horaires habituels ?,72.1,4.04
+S09,7,neutre,Quel est votre parcours universitaire ?,78.7,5.02
+S09,8,neutre,Quelles sont vos responsabilités principales ?,67.8,5.06
+S09,9,neutre,Comment fonctionne votre équipe ?,69.5,2.11
+S09,10,neutre,Avez-vous suivi des formations récentes ?,75.7,5.81
+S09,11,neutre,Comment vous rendez-vous au bureau ?,80.2,5.01
+S09,12,neutre,Aimez-vous votre travail ?,69.8,5.5
+S09,13,neutre,Que faites-vous le week-end ?,75.2,6.47
+S09,14,neutre,Avez-vous des hobbies ?,70.8,4.3
+S09,15,neutre,Comment se passent vos congés ?,67.4,5.14
+S09,16,accusatrice,Connaissiez-vous le compte Pégase ?,65.3,6.55
+S09,17,accusatrice,Et le compte Cerbère ?,75.9,6.17
+S09,18,accusatrice,Que pouvez-vous dire du compte Hermès ?,73.7,8.07
+S09,19,accusatrice,Où étiez-vous le 14 mars à 20h30 ?,77.4,3.79
+S09,20,accusatrice,Avez-vous vu Marc Lefèvre le 14 mars ?,70.1,3.24
+S09,21,accusatrice,Pourquoi avoir accédé aux serveurs ce soir-là ?,75.8,3.0
+S09,22,accusatrice,Connaissiez-vous le rapport d’audit en cours ?,78.4,7.65
+S09,23,accusatrice,Avez-vous accès à la pharmacie de la société ?,68.6,4.63
+S09,24,accusatrice,Avez-vous déjà manipulé de la digoxine ?,73.1,6.77
+S09,25,accusatrice,Pourquoi si peu de congés en 2025 ?,81.0,1.63
+S09,26,accusatrice,Comment expliquez-vous ces transferts vers les Caïmans ?,71.4,4.47
+S09,27,accusatrice,Qui validait ces transactions ?,66.0,4.03
+S09,28,accusatrice,Avez-vous effacé des fichiers récemment ?,75.1,4.44
+S09,29,accusatrice,"Que savez-vous des 4,8 millions disparus ?",65.3,10.75
+S09,30,accusatrice,Pourquoi avoir auto-validé certaines transactions ?,74.3,5.22
+S10,1,neutre,Quel est votre poste exact ?,65.5,4.81
+S10,2,neutre,Depuis quand travaillez-vous chez Mercier ?,70.2,2.23
+S10,3,neutre,Comment décririez-vous une journée type ?,65.6,5.45
+S10,4,neutre,Quels logiciels utilisez-vous au quotidien ?,80.7,4.94
+S10,5,neutre,Qui sont vos collègues directs ?,76.5,4.31
+S10,6,neutre,Quels sont vos horaires habituels ?,70.6,5.81
+S10,7,neutre,Quel est votre parcours universitaire ?,79.3,6.06
+S10,8,neutre,Quelles sont vos responsabilités principales ?,65.7,4.42
+S10,9,neutre,Comment fonctionne votre équipe ?,72.4,4.19
+S10,10,neutre,Avez-vous suivi des formations récentes ?,72.9,5.48
+S10,11,neutre,Comment vous rendez-vous au bureau ?,76.0,6.52
+S10,12,neutre,Aimez-vous votre travail ?,69.4,2.86
+S10,13,neutre,Que faites-vous le week-end ?,72.8,6.76
+S10,14,neutre,Avez-vous des hobbies ?,68.6,5.32
+S10,15,neutre,Comment se passent vos congés ?,74.5,4.73
+S10,16,accusatrice,Connaissiez-vous le compte Pégase ?,73.0,3.15
+S10,17,accusatrice,Et le compte Cerbère ?,61.6,2.78
+S10,18,accusatrice,Que pouvez-vous dire du compte Hermès ?,71.0,7.19
+S10,19,accusatrice,Où étiez-vous le 14 mars à 20h30 ?,72.5,3.96
+S10,20,accusatrice,Avez-vous vu Marc Lefèvre le 14 mars ?,68.5,6.31
+S10,21,accusatrice,Pourquoi avoir accédé aux serveurs ce soir-là ?,79.8,7.13
+S10,22,accusatrice,Connaissiez-vous le rapport d’audit en cours ?,76.0,2.05
+S10,23,accusatrice,Avez-vous accès à la pharmacie de la société ?,71.2,8.89
+S10,24,accusatrice,Avez-vous déjà manipulé de la digoxine ?,78.6,1.92
+S10,25,accusatrice,Pourquoi si peu de congés en 2025 ?,72.7,5.73
+S10,26,accusatrice,Comment expliquez-vous ces transferts vers les Caïmans ?,69.2,0.5
+S10,27,accusatrice,Qui validait ces transactions ?,73.5,3.42
+S10,28,accusatrice,Avez-vous effacé des fichiers récemment ?,69.1,4.29
+S10,29,accusatrice,"Que savez-vous des 4,8 millions disparus ?",72.3,4.98
+S10,30,accusatrice,Pourquoi avoir auto-validé certaines transactions ?,68.6,4.56
